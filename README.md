@@ -18,4 +18,4 @@ AI-powered lead qualification and sales assistant prototype built with Next.js.
 
 1. Clone the repository
 ```bash
-git clone https://github.com/YOUR_USERNAME/leadmind-ai.git
+git clone https://github.com/lex-aura/leadmind-ai.git
